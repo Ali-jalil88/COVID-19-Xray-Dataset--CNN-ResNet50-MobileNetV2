@@ -42,3 +42,6 @@ This project focuses on three deep learning models: ResNet50, MobileNetV2, and a
 - MobileNetV2: More efficient in terms of memory and computation, MobileNetV2 is a good choice when working with hardware limitations while maintaining high accuracy.
 - CNN: Simpler and more interpretable, the custom CNN can be useful when trying to experiment with architectures or when computational resources are limited.
 Each model has been fine-tuned for the COVID-19 X-ray dataset and can be evaluated based on accuracy, precision, recall, F1-score, and overall performance on the validation set.
+## Links:
+- **[Project Notebook](https://www.kaggle.com/code/alialarkawazi/covid-19-xray-dataset-cnn-resnet50-mobilenetv2)**
+- **[Dataset](https://www.kaggle.com/datasets/khoongweihao/covid19-xray-dataset-train-test-sets)**
