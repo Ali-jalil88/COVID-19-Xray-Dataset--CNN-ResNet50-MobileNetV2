@@ -1,5 +1,5 @@
 # COVID-19-Xray-Dataset--CNN-ResNet50-MobileNetV2
-![COVID-19 Deep Learning Project](https://github.com/Ali-jalil88/-Bank-Marketing-Machine-Learning/blob/main/DALL%C2%B7E%202024-09-26%2013.33.51%20-%20A%20modern%20data%20science%20and%20machine%20learning%20project%20setup%20showcasing%20various%20tools%20and%20techniques%20used%20in%20the%20Bank%20Marketing%20Machine%20Learning%20project.%20.webp)
+![COVID-19 Deep Learning Project](https://github.com/Ali-jalil88/COVID-19-Xray-Dataset--CNN-ResNet50-MobileNetV2/blob/main/DALL%C2%B7E%202024-10-07%2014.26.36%20-%20An%20illustration%20comparing%20three%20deep%20learning%20models_%20CNN%2C%20ResNet50%2C%20and%20MobileNetV2.%20Each%20model%20should%20be%20represented%20by%20a%20simplified%20diagram%2C%20showin.webp)
 ## Introduction
 - Dataset Overview: Briefly describe the COVID-19 X-ray dataset. Mention the input data (X-ray images), target labels (COVID-19, normal, pneumonia), and any preprocessing steps.
 - Objective: Explain the goal of using the dataset. For example, detecting COVID-19 from X-ray images using deep learning models
